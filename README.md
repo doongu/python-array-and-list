@@ -16,6 +16,8 @@ list_rage sizeof :  8000040
 arr_large sizeof :  4000064
 ```
 
+---
+
 ### 결론
 python의 __array는 정적 array입니다.__
 
